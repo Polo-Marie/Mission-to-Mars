@@ -1,7 +1,7 @@
 # Mission-to_Mars
 Let's travel to Mars!
 
-The following repository consists of all of the elements that were necessary to scrape a website that contained likable images of the four Mars hemispheres and then apply them to the web app that we have already created for our client Robin. 
+The following repository consists of all of the elements that are necessary to scrape a website containing likable images of the four Mars hemispheres. We then take these images and apply them to the web app that we have already created for our client Robin. 
 
 In order to obtain these images: 
   - I had to get to the initial url containing the links to all four hemispheres on the same page,
@@ -18,6 +18,6 @@ In order to obtain these images:
   
   - After the loop has fully processed, all of the created dictionaries are then stored as one full list outside of the loop that will be utilized in the scraping.py file in order to obtain the images and then place them on the web app to Robin's taste.
 
-Once all of these steps are completed, to obtain the hemisphere images, we then tidy up Robin's web app by making it mobile-responsive, and then adding a couple of bootstrap components to finish off the site.
+Once all of these steps are completed that obtains the hemisphere images, we then tidy up Robin's web app by making it mobile-responsive, and then adding a couple of bootstrap components to finish off the site.
 
 As all of these tasks are all done, the website app is good to go!
