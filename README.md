@@ -30,4 +30,4 @@ Once all of these steps are completed that obtains the hemisphere images, we the
 - ![](Photos/mh_app_2.png)
 
 As all of these tasks are all done, the website app is good to go!
--![](Photos/Final_app_shot.png)
+- ![](Photos/Final_app_shot.png)
