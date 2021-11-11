@@ -13,19 +13,21 @@ In order to obtain these images:
   - start my for loop that would create each dictionary for each hemisphere's link,
     - ![](Photos/For_Loop.png)
     
-  - This for loop would then:
+  - This for loop:
     
-    - Click the first hemisphere's link 
-    - Search for the full image link of that specific hemisphere and then search for the hemisphere's title 
+    - Clicks the first hemisphere's link 
+    - Searches for the full image link of that specific hemisphere and then search for the hemisphere's title 
     - Creates and store the first dictionary for this first hemisphere's information
-    - Go back to the previous browser to continue the process again for the remaining three links
-    - Exit the loop and then do a final print to ensure that our list is printing correctlyin roder to apply it to the web app
-    - Once the loop is exited, we then exit the browser 
+    - Goes back to the previous browser to continue the process again for the remaining three links
+    - Exits the loop and then do a final print to ensure that our list is printing correctlyin roder to apply it to the web app
+    - Once the loop is exited, it then exits the browser 
   
   - After the loop has fully processed, all of the created dictionaries are then stored as one full list outside of the loop that will be utilized in the scraping.py file in order to obtain the images and then place them on the web app to Robin's taste.
     - ![](Photos/Dictionaries.png)
 
 Once all of these steps are completed that obtains the hemisphere images, we then tidy up Robin's web app by making it mobile-responsive, and then adding a couple of bootstrap components to finish off the site.
-- ![](
+- ![](Photos/mh_app_1.png)
+- ![](Photos/mh_app_2.png)
 
 As all of these tasks are all done, the website app is good to go!
+-![](Photos/Final_app_shot.png)
